@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nothing without God: Performed by John Choke, (approved physician; and farther, priviledged y his Majesty); or, in his absence, by Clement Blewton and John Bemston, students in physick.</title>
+            <author>Choke, John.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20211</idno><idno type="EEBO-CITATION">99888922</idno>
+  <idno type="VID">196054</idno>
+  <idno type="EEBO-PROQUEST">2240901981</idno>
+  
+            <idno type="STC">Wing C3920D</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32.[63]</idno>
+            <idno type="STC">ESTC R232523</idno>
+            <idno type="PROQUEST">ocm99888922</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888922e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196054)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[62])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nothing without God: Performed by John Choke, (approved physician; and farther, priviledged y his Majesty); or, in his absence, by Clement Blewton and John Bemston, students in physick.</title>
+                  <author>Choke, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1680 and 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Royal arms at head of caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:196054:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>Nothing without God: Performed by <hi>John Choke,</hi> (approved Physician; and farther, Priviledged by his Majesty); or, in his absence, by <hi>Clement Blewton</hi> and <hi>John Bemston,</hi> Students in Physick.</head>
+            <p>
+               <hi>ELixir Capitalis totius mundi; vel Nepenthe Authoritica;</hi> or, the only <hi>Elixir</hi> in the World, for the thorow-Cure of the <hi>GOƲT, Dropsie, Agues</hi> of all sorts, as <hi>Ter<g ref="char:EOLhyphen"/>tian, Quartan,</hi> and <hi>Quotidian;</hi> the <hi>Stone, Falling-Sickness, Scurvey, Cholick; Plurisie</hi> without Bleeding: All these Diseases we Cure Infallibly (by the Assi<g ref="char:EOLhyphen"/>stance of God) in a very short time, taking away the Cause in such a manner, as that the Patient may never doubt of a Relapse into the same Distemper.</p>
+            <p>I am sensible that the Vulgar will not admit that there is any Cure for the <hi>GOƲT:</hi> nei<g ref="char:EOLhyphen"/>ther have they Reason, seeing there have been so many Pretenders which come short. It is an Arcane which I had in <hi>Germany,</hi> from the Famous and most Learned <hi>Baptista Van-Helmont,</hi> of worthy Memory (whose Daughter I Wedded) and whose Praescripts most Physicians follow. This <hi>Elixir</hi> extracts from all parts of the Patient's body, those crude and viscous humours, which are the occasion of the <hi>GOƲT</hi> in general, as <hi>Arthritis;</hi> or in particular, as either <hi>Chiragra, Genogra, Sciatica,</hi> or <hi>Podagra.</hi> If there be any amongst you, willing to be freed from that Malignant distemper, (by the assistance of God) you shall receive a perfect Cure in very few days; first, by applying a <hi>Balm,</hi> being an Ex<g ref="char:EOLhyphen"/>ternal Topick, or Application, which gives ease to the violency of the Gout-pains in two hours, to the satisfaction and ease of the Patient, and admiration of Spectators; thwarthing that opinionated falsity <q xml:lang="lat">Nodosam nescit medicina curare podagram.</q>
+            </p>
+            <pb facs="tcp:196054:2"/>
+            <p> I am not yet throughly resolved, whether to come down, or not; but, in the mean time, have thought fit to send down Mr. <hi>Clement Blewton,</hi> and Mr. <hi>John Bemston,</hi> Stu<g ref="char:EOLhyphen"/>dents in Physick, whom I have instructed in my way of practice, &amp; do make use of my Me<g ref="char:EOLhyphen"/>dicines. <hi>Thomas Odored,</hi> Esq. Deceased (was also of my instructing) who was so Fa<g ref="char:EOLhyphen"/>mous in Curing the <hi>GOƲT,</hi> and many other Distempers Chronick; unto whom his Ma<g ref="char:EOLhyphen"/>jesty recommended a Patient of the <hi>Falling-Sickness,</hi> adding, that he was perswaded he could Cure him, and there followed an admirable Cure in one days Administration of Medicines: Of this, and several other miraculous Cures, there is a Book in Print, which is no idle Pamphlet, but Dedicated to the most Reverend Father in God, <hi>Gilbert,</hi> by Di<g ref="char:EOLhyphen"/>vine Providence, Lord Arch-Bishop of <hi>Canterbury.</hi> He used no other Medicines but what I taught him in Chymistry.</p>
+            <p>I could treat particularly of each Disease, and its symptoms, but am unwilling to bur<g ref="char:EOLhyphen"/>then the Reader: VVe have several specifical Medicins for Diseases of the <hi>Eyes, Head, Stomack, Jaundies, Feavers,</hi> Morbum-Gallicum, <hi>Consumptions, Griping of the Guts, Sur<g ref="char:EOLhyphen"/>fets, Melancholy, Spleen, Rickets in Children, Green-sickness, Fits of the Mother;</hi> with all Diseases incident to VVomen; present ease to <hi>Tooth ach,</hi> without drawing; <hi>Gonorrhaea,</hi> and weakness in the back, with other Diseases curable. VVe have Pills, both good and cheap, for purging the blood, fortifying the body against Distempers &amp; ill Air, restoring the Spirits of those which decline by hard-drinking and Night-watching, which occasions Surfets, Dropsies, and many other Distempers; obtains a good Stomack where Appe<g ref="char:EOLhyphen"/>tite is lost. I could mention many more Virtues, but, for brevity, shall omit them, being you may have advice at any time; this being a good time of the year, neglect not your Health, since God hath been pleased to send a means.</p>
+            <p>It's needless to declare my Forrain-actions, and the many thousand Cures I have per<g ref="char:EOLhyphen"/>fected in <hi>London.</hi> I Cured the Duke of <hi>Buckingham</hi> of an Ague, when all Physicians had left him: In a word, my Cures have been so many and wonderful, that his Majesty was pleased to send for me, and as a mark of his Royal Pleasure, gave me his Authority to practise in any of his Dominions, without any Controle. VVe are not come for Lucre of Gain, but, our opinion of doing Good to the Poor as well as others, was not the least motive that brought us hither; &amp; since we are come down, thought it requisite to disperse a few of these Advertisements for the particular Informations of such as esteem their Health. If you bring a true relation of the Sick person's Indisposition, or his true Water, you may have proper Medicines for the Cure; we have so much Reputation that we shall not undertake more than we can Cure: As for the Poor, such as are Relieved by the Parish, if they come in season, we shall as readily assist them for Charity, as the Rich for Money.</p>
+            <p>The two Persons, aforesaid, do Administer my Medicines according to my Directions: I Live my self in the Strand, <hi>London;</hi> but you that are near this Town, need not give your selves farther trouble, but repair to the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> in <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> where my Friends have Medicines, and instructed to perform any Cures, as well, as though I were present, in every particular: They may be spoken with, any hour of the day <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> at the aforesaid place, where you shall find some of these Ad<g ref="char:EOLhyphen"/>vertisements sticked up at the Door.</p>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
